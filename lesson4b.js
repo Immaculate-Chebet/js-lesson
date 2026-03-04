@@ -12,7 +12,7 @@ greet();
 (function(){
     console.log('Welcome to the world of programming')
 
-})();
+})();  
 //git add
 //git commit -m 'added new code'
 //git push

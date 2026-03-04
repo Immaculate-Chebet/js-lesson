@@ -33,7 +33,7 @@ console.log('==================')
 
 
 //si
-function si(p,r,t){
+function si(p,r,t){  
     interest=p*r/100*t
     console.log('The simple interest is',interest)
 
